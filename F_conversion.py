@@ -16,7 +16,7 @@
 
 # OPTIONS = valid_temps[:]
 
-
+val = ''
 # Determine if user input a valid option
 def is_valid(temp):
     try:
